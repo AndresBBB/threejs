@@ -1,8 +1,0 @@
-Seguimientos caso AP.
-
-CAS-10599-F7K2V7 16999-Fechas mal calculadas en AX modulo HSEQ exámenes ocupacional viernes 9 de agosto 2019
-CAS-10594-D8H5K0 17005-Garantía autoservicio. Se presentan errores en el portal viernes 9 de agosto 2019
-CAS-10589-P5B9K8 17011-Garantía portal autoservicio. Error en vacaciones viernes 9 de agosto 2019
-CAS-10680-J1Y2D8 016725 Modelos de Valor viernes 9 de agosto 2019
-CAS-10678-D8Q2R0 016946 Solicitud eliminación de contenido cargado en AX jueves 8 de agosto 2019
-CAS-10669-R2G9X4 La opción Imprimir Matriz, el reporte lo genera en blanco martes 6 de agosto 2019
